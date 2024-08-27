@@ -30,5 +30,8 @@
     },
     "platforms": [
         "Any"
+    ],
+    "optionalPaths": [
+        ".venv/*"
     ]
 }
