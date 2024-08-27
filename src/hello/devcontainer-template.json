@@ -32,6 +32,7 @@
         "Any"
     ],
     "optionalPaths": [
-        ".venv/*"
+        ".venv/*",
+        ".github/*"
     ]
 }
